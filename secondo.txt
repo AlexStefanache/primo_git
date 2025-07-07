@@ -1,0 +1,3 @@
+nuovo file creato da secondo_git
+
+pirccola modifica al file da visual studio code
